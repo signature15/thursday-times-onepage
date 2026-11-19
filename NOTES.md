@@ -2,8 +2,13 @@
 
 ## Design notes
 
-These are the choices behind `entry.png`, the one-page broadsheet for
-Thursday 19 November 2026.
+These are the choices behind `entry.png`, the one-page broadsheet that
+sums up Thursday 19 November 2026 in a single sheet. The page compresses
+38 stories from 7 regions into one view: 3 hero cards, 5 secondary cards,
+6 tertiary cards and 24 "Also on Thursday" briefs, backed by an
+eight-cell numbers strip spanning courts, markets, quakes and sport. The
+notes below explain why each design decision was made the way it was,
+from the printed-paper framing down to the per-card source credits.
 
 1. **Cream paper, not white.** A pure white page reads as a screenshot or a
    browser window; the warm cream ground (`#faf6ec`-ish) plus a thin black
@@ -64,3 +69,18 @@ Thursday 19 November 2026.
    blue source credit (REUTERS, ICJ, KYODO, FED...). On a page that
    compresses 38 stories, the credit line doubles as the "who reported
    this" fact-check without needing a separate byline row.
+
+## Sources
+
+The day's sources for Thursday 19 November 2026, one per line:
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
+
