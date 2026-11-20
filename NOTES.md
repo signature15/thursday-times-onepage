@@ -2,12 +2,11 @@
 
 ## Design notes
 
-These are the choices behind `entry.png`, the one-page broadsheet that
-sums up Thursday 19 November 2026 in a single sheet. The page compresses
-38 stories from 7 regions into one view: 3 hero cards, 5 secondary cards,
-6 tertiary cards and 24 "Also on Thursday" briefs, backed by an
-eight-cell numbers strip spanning courts, markets, quakes and sport. The
-notes below explain why each design decision was made the way it was,
+These are the choices behind `entry.png`, THE THURSDAY LEDGER: a cream,
+one-page broadsheet edition for Thursday 19 November 2026. The page brings
+40 stories into one view, supported by a stat band, a region tally, and a
+date-check footer that distinguishes the day's events from older carryover.
+The notes below explain why each design decision was made the way it was,
 from the printed-paper framing down to the per-card source credits.
 
 1. **Cream paper, not white.** A pure white page reads as a screenshot or a

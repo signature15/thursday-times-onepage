@@ -1,18 +1,20 @@
 /**
- * entry.png - the artifact this repository exists to ship.
+ * entry.png is THE THURSDAY LEDGER, a one-page news broadsheet.
  *
- * Picture a broadsheet printed on cream newsprint: that is entry.png, a
- * 1024x1024 page that compresses all of Thursday 19 November 2026 into a
- * single view. A masthead opens the page, its red date tab stamping the
- * edition with the day. Under it, a strip of number tiles gives the day
- * in figures - a 9-6 ICJ vote on genocide, Anthropic priced at $81bn for
- * its IPO, an M5.7 quake shaking Kumamoto, and UK inflation running at
- * 3.6 percent. From there the page widens out: three hero cards lead with
- * the three-way summit held in Shenzhen, the ICJ's Myanmar ruling, and
- * Anthropic's Nasdaq debut; five secondary cards and seven tertiary cards
- * fill in the rest of the world's day; twenty-four evening briefs, each
- * tagged by region, sweep along the bottom; and a date-check footer draws
- * the line between genuine 19 November events and Wednesday carryover.
+ * Its warm cream ground gives the image the character of a page pulled from
+ * a printed Thursday edition rather than a generic digital news screen.
+ * The masthead sets the paper's name and fixes the edition on Thursday
+ * 19 November 2026, giving every story the same clear time and place.
+ * Forty stories are arranged across the sheet so the day's news can be
+ * scanned as a whole while still retaining a deliberate editorial order.
+ * A stat band turns the edition's key figures into a quick visual briefing,
+ * placing courts, markets, public events, and other signals side by side.
+ * A region tally makes the global spread of the coverage visible at a glance
+ * and helps the reader understand how the page balances its reporting.
+ * The story field carries the main leads and shorter briefs in a compact
+ * broadsheet rhythm, with rules and spacing keeping the dense page legible.
+ * At the foot, a date-check footer separates events belonging to 19 November
+ * from older carryover, closing the page with an explicit editorial check.
  */
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
